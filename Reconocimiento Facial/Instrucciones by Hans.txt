@@ -1,0 +1,16 @@
+Instrucciones para ejecutar el programa
+
+1-ejecutar por entorno virtual de virtualenv:
+- si no lo tiene instalado, instalelo con el comando: pip install virtualenv
+2- luego entrar en la ruta .\tarea-7\Scripts\activate.bat(Windows):
+-(en macOS) $ cd env
+	    $ source bin/activate
+	    (env)$
+3-Luego adentro del entorno virtual ejecutar main.py
+4- presionar 1 para agregarse al dataSet:
+-Si usted es el profesor Amadis, su ID predefinido el es "2"
+5-Luego de agregarse al dataSet vuelva y ejecute main.py
+6-Presione cualquier numero diferente de 1
+7- Haga la suma, espere el reconocimiento facial, y escuche su resultado
+
+FIN
